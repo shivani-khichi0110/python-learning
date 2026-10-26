@@ -29,7 +29,7 @@ print(7*5)
 #we can combine text and no by seperating it by comma
 print("welcome to day",2)
 
-#we can combine string and no. or variable using format method
+#we can combine string and no. or variable using f-string
 print(f"this is my line {31}")
 s=53
 print(f"this is line no {s}")
