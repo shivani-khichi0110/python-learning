@@ -18,6 +18,8 @@ print(b[0])
 print(b[2])
 print(b[8])
 
+
+
 #negative indexing
 print(b[-0])
 print(b[-2])
