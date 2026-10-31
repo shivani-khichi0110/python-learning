@@ -1,4 +1,4 @@
-#you can range the characters using the slice notation
+#you can range the characters using the slice notationgit
 #specify the start index and the end index separate it by colon,to return part of string
 b="hello world!!"
 print(b[1:6])
@@ -11,6 +11,7 @@ print(b[4:])
 
 #use negative index to start the slice from ending
 print(b[-5:-2])
+
 
 #positive indexing
 print(b[0])
